@@ -1,0 +1,17 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# data sets
+eventData.Rdata
+itemData.Rdata
+studentData.Rdata
+Use Terms and Conditions.docx
+
+# R Project File
+AERA2020ProcDataNAEP.Rproj
+
+# Extra Files
+AERA2020ProcDataNAEP.zip
+NAEP Process Data Mini Course: R Basics.pdf
+NAEP Process Data: Pre-Mini Course Instructions.pdf
+00_Load_Data.R
+.Rproj.user
